@@ -1,6 +1,6 @@
 # 👋🏼 Boas-vindas!
 
-**`Desenvolvedor Client-Side Web Stack`**
+**`Client-Side Web Stack Developer`**
 
 Atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
 
