@@ -1,6 +1,7 @@
 ## 👋🏼 Boas-vindas!
 
-Desenvolvedor Front-End, voltado para o Web Stack do Cliente, atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
+**`Desenvolvedor Web Front-end`**
+Voltado para o Web Stack do Cliente, atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
 
 <br>
 
