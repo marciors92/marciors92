@@ -1,8 +1,8 @@
 # 👋🏼 Boas-vindas!
 
-**`Desenvolvedor Web Full-Stack`**
+**`Desenvolvedor Client-Side Web Stack`**
 
-Voltado para o Web Stack do Cliente, atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
+Atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
 
 ## 🛠️ Linguagens e Tecnologias
 
