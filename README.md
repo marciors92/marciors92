@@ -1,4 +1,4 @@
-# 👋🏼 Boas-vindas!
+# 👋🏼 Olá, boas-vindas!
 
 **`Client-Side Web Stack Developer`**
 
