@@ -1,5 +1,5 @@
-<div align="center" style="background-image: url('<img width="2800" height="2000" alt="xadrez de lewis" src="https://github.com/user-attachments/assets/5aa72c18-29ba-4a7c-a431-16a1a85d654e" />
-'); background-size: cover; background-position: center; padding: 50px 0; border-radius: 10px; color: #fff; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+<div align="center" style="background-image: url(![athos bulcão](https://github.com/user-attachments/assets/16e879fa-1467-4d5c-85ec-d1a665efd05e)
+); background-size: cover; background-position: center; padding: 50px 0; border-radius: 10px; color: #fff; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
   <h1 style="font-size: 3em; margin-bottom: 5px;">👋🏼 Boas-vindas ao Meu Perfil!</h1>
   <p style="font-size: 1.5em; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); display: inline-block; padding: 5px 15px; border-radius: 5px;">Client-Side Web Stack Developer</p>
   <p style="font-size: 1.2em; background-color: rgba(0, 0, 0, 0.5); display: inline-block; padding: 5px 15px; border-radius: 5px;">
