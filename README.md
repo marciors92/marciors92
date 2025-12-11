@@ -1,6 +1,10 @@
 # 👋🏼 Olá, boas-vindas!
 
-**`Client-Side Web Stack Developer`**
+<br>
+  
+  [![Client-Side Web Stack Developer](https://img.shields.io/badge/Client--Side%20Web%20Stack%20Developer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciofrontend/)
+  
+  <br>
 
 Atuo na criação de interfaces de usuário, websites responsivos e experiências digitais intuitivas.
 
